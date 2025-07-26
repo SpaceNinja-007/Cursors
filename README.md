@@ -3,7 +3,7 @@ A pile of windows cursors
 
 ## How to use
 
-Right now, you have to go into the zip folder, click "View Raw," then extract the folder. After that, move the unzipped folder to a known location so you can access it easily.
+1.0 Now to just go to release and get the one you want!
 
 ## Notes
 
